@@ -1,0 +1,25 @@
+.App {
+  font-family: sans-serif;
+  text-align: left;
+}
+
+.article {
+  text-align: left;
+  margin-left: 1em;
+}
+
+.article span {
+  display: inline-block;
+  margin: 0 1rem;
+  font-size: 0.8em;
+  background-color: #eaeaea;
+  padding: 0 5px;
+}
+
+.recent-articles {
+  text-align: center;
+}
+
+.author-name span {
+  font: size 5px;
+}
